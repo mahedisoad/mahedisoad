@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Mahedi Soad 👋
 
-<!--
-**mahedisoad/mahedisoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Computer Science Student
+- 🤖 Passionate about Data Science, Machine Learning, and AI
+- 🔬 Interested in AI Research and building real-world ML applications
+- 📚 Currently learning Deep Learning, NLP, MLOps, and FastAPI
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Streamlit
+- FastAPI
+- Docker
+
+## 📈 GitHub Stats
+
+![Mahedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedisoad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedisoad&layout=compact&theme=tokyonight)
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/s-m-mahedi/
+- 📧 Email: smsoad007@gmail.com
