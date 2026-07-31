@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code , Pydentic
 
 ## 🌱 Currently Learning
 - Deep Learning
@@ -18,11 +18,6 @@
 - FastAPI
 - Docker
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=mahedisoad&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mahedisoad&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
 
