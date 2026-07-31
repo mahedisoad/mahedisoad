@@ -7,7 +7,7 @@
 - 📚 Currently learning Deep Learning, NLP, MLOps, and FastAPI
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL , PowerBI
+- **Languages:** Python, SQL , PowerBI, Excel
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code , Pydentic
 
