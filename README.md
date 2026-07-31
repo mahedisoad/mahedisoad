@@ -7,8 +7,8 @@
 - 📚 Currently learning Deep Learning, NLP, MLOps, and FastAPI
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Languages:** Python, SQL , PowerBI
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code , Pydentic
 
 ## 🌱 Currently Learning
@@ -17,6 +17,7 @@
 - Streamlit
 - FastAPI
 - Docker
+- Agentic AI
 
 
 ## 📫 Connect with Me
