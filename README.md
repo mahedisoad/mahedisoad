@@ -20,9 +20,9 @@
 
 ## 📈 GitHub Stats
 
-![Mahedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedisoad&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=mahedisoad&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedisoad&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mahedisoad&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
 
